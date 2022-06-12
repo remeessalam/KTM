@@ -1,0 +1,126 @@
+.carousel-item{
+    background-size: cover;
+    position: relative;
+    
+}
+.header-icons{
+    font-size: 20px;
+    color: orange;
+}
+.collapse navbar-collapse {
+    font-family: blender-pro ;
+}
+.card{
+    border: none;
+}
+.page5b:hover{
+ background: none;
+ color: #f60;
+}
+.page5b{
+    background-color: #f60;
+    color: white;
+    border-color: #f60;
+    justify-content: center;
+    border-radius: 0; 
+}
+page6col2{
+    color: white;
+}
+.page6b:hover{
+    background: none;
+    color: #f60;
+    border-color: #f60;
+   }
+.page6b{
+    background-color:black;
+    color: white;
+    border-color: white;
+    justify-content: center;
+    border-radius: 0;    
+}
+.bclass{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.page6all{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.page6b2{
+    background-color:white;
+    color: #f60;
+    border-color: #f60;
+    justify-content: center;
+    border-radius: 0;    
+}
+.page6b2:hover{
+    background: #f60;
+    color:white;
+    border-color: #f60;
+   }
+   .footer{
+       background-color: black;
+   }
+   .pagefl{
+    color: #f60;
+    justify-content: center;
+    border-radius: 0; 
+    text-decoration: none;   
+}
+.pagefl:hover{
+    color:#f60
+}
+
+.firstb{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    list-style-type: none;
+    text-align: center;
+}
+.headb{
+    background-color: #f60;
+    color: white;
+    border-color: #f60;
+    justify-content: center;
+    border-radius: 0;   
+}
+.headb:hover{
+    background:none;
+    color:#f60;
+    border-color: #f60;
+}
+.headb:on-button-click{
+    background:none;
+    color:#f60;
+    border-color: #f60;
+}
+.headb1{
+    background-color:black;
+    color: white;
+    border-color: black;
+    justify-content: center;
+    border-radius: 0;   
+}
+.headb1:hover{
+    background:none;
+    color:black;
+    border-color: black;
+}
+.hoverktm:hover{
+    z-index: 1;
+}
+li{
+    list-style-type: none;
+}
+html{
+    overflow-x: hidden !important;
+}
+bgd{
+    background-color: black !important;
+}
